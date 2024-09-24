@@ -4,6 +4,10 @@ I am a passionate **Java Spring Boot Developer** with a strong focus on backend 
 
 ---
 
+### GitHub Stats
+![Ricky GitHub stats](https://github-readme-stats.vercel.app/api?username=rickymarnaeksibarani&show_icons=true&theme=radical)
+
+
 ### 💼 Skills & Technologies
 
 - **Languages**: Java, SQL, JavaScript
