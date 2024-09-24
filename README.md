@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Ricky Marnaek Sibarani! 👋
 
-<!--
-**rickymarnaeksibarani/rickymarnaeksibarani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate **Java Spring Boot Developer** with a strong focus on backend development, microservices, and API design. I love building scalable, secure, and maintainable systems that solve real-world problems. My expertise also extends to working with databases, developing RESTful APIs, and creating robust financial management applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Skills & Technologies
+
+- **Languages**: Java, SQL, JavaScript
+- **Frameworks**: Spring Boot, Spring Data JPA, Spring Security
+- **Databases**: MySQL, PostgreSQL
+- **Object Storage**: MinIO
+- **Tools & Platforms**: Maven, Gradle, Docker, Git, IntelliJ IDEA
+- **Others**: RESTful APIs, Microservices, Unit Testing (JUnit), Integration Testing
+
+---
+
+### 🌱 Current Work & Learning
+
+- **Corporate**: SDA Catalog
+- **Other Collabs freelance**:Church Management System
+- **Learning**: Text classification for my thesis
+
+---
+
+
+### 📫 Get in Touch
+
+- **Email**: rickymarnaeksibarani@gmail.com
+- **LinkedIn**: [linkedin.com/in/rickymarnaeksibarani](https://www.linkedin.com/in/rickymarnaeksibarani/)
+- **GitHub**: [github.com/rickymarnaeksibarani](https://github.com/rickymarnaeksibarani)
+
+---
+
+Thanks for stopping by! 😊
